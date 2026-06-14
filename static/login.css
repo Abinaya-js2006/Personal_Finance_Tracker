@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(135deg,#667eea,#764ba2);
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.login-card{
+    background:white;
+    padding:40px;
+    border-radius:15px;
+    width:400px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.2);
+}
+
+h2{
+    text-align:center;
+    margin-bottom:25px;
+    font-weight:bold;
+}
+
+.form-control{
+    margin-bottom:15px;
+}
+
+.btn{
+    width:100%;
+}
